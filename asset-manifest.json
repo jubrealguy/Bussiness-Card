@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.d14dc044.css",
-    "main.js": "/react-gh-pages/static/js/main.5e7a64c3.js",
-    "static/media/Jubreel_Adebayo.jpeg": "/react-gh-pages/static/media/Jubreel_Adebayo.8acc5db52bba86deb063.jpeg",
-    "static/media/git-logo.png": "/react-gh-pages/static/media/git-logo.1af1b6e8ffaa57d4dfd5.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.d14dc044.css.map": "/react-gh-pages/static/css/main.d14dc044.css.map",
-    "main.5e7a64c3.js.map": "/react-gh-pages/static/js/main.5e7a64c3.js.map"
+    "main.css": "/Bussiness-Card/static/css/main.d14dc044.css",
+    "main.js": "/Bussiness-Card/static/js/main.8f5883ab.js",
+    "static/media/Jubreel_Adebayo.jpeg": "/Bussiness-Card/static/media/Jubreel_Adebayo.8acc5db52bba86deb063.jpeg",
+    "static/media/git-logo.png": "/Bussiness-Card/static/media/git-logo.1af1b6e8ffaa57d4dfd5.png",
+    "index.html": "/Bussiness-Card/index.html",
+    "main.d14dc044.css.map": "/Bussiness-Card/static/css/main.d14dc044.css.map",
+    "main.8f5883ab.js.map": "/Bussiness-Card/static/js/main.8f5883ab.js.map"
   },
   "entrypoints": [
     "static/css/main.d14dc044.css",
-    "static/js/main.5e7a64c3.js"
+    "static/js/main.8f5883ab.js"
   ]
 }
