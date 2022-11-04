@@ -21,7 +21,7 @@ function MainContent() {
                 </li>
                 <li>
                     <h3>Interests</h3>
-                    <p>I do not think anything interests me nore than coding and solving problems. However, I love playing football, travelling, having intellectual discussions and hangouts.</p>
+                    <p>I do not think anything interests me more than coding and solving problems. However, I love playing football, travelling, having intellectual discussions and hangouts.</p>
                 </li>
             </ul>
         </div>
