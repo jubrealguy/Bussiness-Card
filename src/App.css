@@ -32,12 +32,18 @@
   border-top-right-radius: 10px;
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 450px) {
   .App {
     width: 100%;
     padding: 46px 45px;
   }
   
+  .header__img {
+    height: 370px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
   .header__img {
     height: 310px;
   }
@@ -86,8 +92,14 @@
 }
 
 @media only screen and (max-width: 375px) {
+  .App {
+    width: 100%;
+    padding: 20px;
+  }
+  
   .contact a {
-    padding: 8px 12px;
+    padding: 8px 10px;
+    font-size: 12px;
   }
 }
 
